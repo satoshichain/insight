@@ -1,0 +1,9 @@
+export INSIGHT_NETWORK=livenet
+export BITCOIND_USER=YourSatoshiChainRPCUserName
+export BITCOIND_PASS=YourSatoshiChainRPCPassword
+export BITCOIND_P2P_PORT=31000
+export BITCOIND_DATADIR=/home/mike/.SatoshiChain
+export BITCOIND_PORT=31100
+export NODE_ENV=production
+export INSIGHT_PORT=3000
+npm start
